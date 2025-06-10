@@ -4,10 +4,9 @@ This is a Power BI dashboard for American Bank. It analyzes customer data with m
 
 ## Files
 - `AmericanBankDashboard.pbix`: The Power BI report file.
-- `AmericanBankData.xlsx`: The Excel data used (optional).
+- `AmericanBankData.xlsx`: The Excel data used.
 - `DASHBOARD DESIGN AND VISUALISATION.docx`: Steps followed to create the dashboard.
-- `image1.png` to `image15.png`: Screenshots of the dashboard (optional).
-
+- `![Screenshot 2025-06-10 175031](https://github.com/user-attachments/assets/fcedbbc0-6e74-4767-a7e7-a4b1c0361c55)`: Screenshots of the dashboard.
 ## Tools Used
 - Power BI for visualization.
 - Excel for data.
